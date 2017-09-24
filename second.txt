@@ -1,1 +1,4 @@
-echo "jenkins:
+stage 'build'
+//build
+stage 'test'
+//test
